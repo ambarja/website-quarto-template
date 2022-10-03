@@ -1,0 +1,58 @@
+[
+  {
+    "objectID": "schedule.html",
+    "href": "schedule.html",
+    "title": "Schedule",
+    "section": "",
+    "text": "Day 2\nTuesday, July 26, 2022\n\n\n\n\n\n\n\n\nTime\n\n\nModule\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Graphic Design with ggplot2",
+    "section": "",
+    "text": "🗓️ July 25 and 26, 2022 ⏰ 09:00 - 17:00 🏨 [ADD ROOM] ✍️ rstd.io/conf"
+  },
+  {
+    "objectID": "index.html#overview",
+    "href": "index.html#overview",
+    "title": "Graphic Design with ggplot2",
+    "section": "Overview",
+    "text": "Overview\nCreating engaging and accessible data visualizations of high quality in an efficient and preferably reproducible way is an essential tool in a data scientist’s toolbox. After completing the course, participants will have a solid understanding of data visualization principles and the functionality of the ggplot2 graphics library and helpful extension libraries to create highly customized graphics without the need for post-processing.\nWe will discuss the main concepts of the grammar of graphics and use hands-on examples to explore ggplot2’s utility to create multi-layered, more complex graphs. The workshop covers a short overview of the basics of ggplot2 and quickly focuses on the most important steps and helpful tips to create visually appealing and complex graphics both in theory and practice. The power of ggplot2 will be illustrated with advanced real–life examples that help to understand data visualization principles and useful coding tricks.\nThe course covers complex code examples that are suited for more experienced ggplot2 users but designed to be informative for participants with minimal prior experience in ggplot2 and data visualization. As part of the training, attendees can download the course material from the course webpage for future reference."
+  },
+  {
+    "objectID": "index.html#learning-objectives",
+    "href": "index.html#learning-objectives",
+    "title": "Graphic Design with ggplot2",
+    "section": "Learning objectives",
+    "text": "Learning objectives\n\nUnderstanding the general concepts of ggplot2.\nLearning the many options of customizing a ggplot.\nGaining the major steps need to create engaging graphics.\nBeing able to generate complex plots without th need of post-processing."
+  },
+  {
+    "objectID": "index.html#is-this-course-for-me",
+    "href": "index.html#is-this-course-for-me",
+    "title": "Graphic Design with ggplot2",
+    "section": "Is this course for me?",
+    "text": "Is this course for me?\nThis course will be appropriate for you if you answer yes to these questions:\n\nDo you aim to build graphics in a fully reproducible way without the need to manually adjust details afterwards?\nDo you enjoy using the {ggplot2} package but are interested in doing more with it?\nWould you like to learn how to improve future data visualizations in terms of accessibility, impact, and complexity?"
+  },
+  {
+    "objectID": "index.html#prework",
+    "href": "index.html#prework",
+    "title": "Graphic Design with ggplot2",
+    "section": "Prework",
+    "text": "Prework\nThe workshop will also cover the basic logic of ggplot2 and its compontents. However, some pre-knowledge on how the package works is beneficial for following the examples and for the group exercises. A good overview is provided might by the “First Steps” chapter of the ggplot2 book by Hadley Wickham et al.: https://ggplot2-book.org/getting-started.html"
+  },
+  {
+    "objectID": "index.html#requirements",
+    "href": "index.html#requirements",
+    "title": "Graphic Design with ggplot2",
+    "section": "Requirements",
+    "text": "Requirements\nThe example codes and the hands-on workshop parts are run in the Rstudio cloud. Thus, nothing but a laptop is needed. If you want to follow the workshop locally, please make sure to install a suitable IDE (Rstudio, VS Code or others), a recent version of R (4.1+) and the following packages (to be extended):\n\n{tidyverse} and related\n{ggplot2}, {readr}, {tibble}, {tidyr}, {dplyr}, {forcats}, {stringr}, {lubridate},\n\n\n{ggplot2} extensions\n{ggtext}, {ggrepel}, {ggforce}, {ggdist}, {ggalt}, {ggridges}, {patchwork}\n\n\nColor palettes\n{RColorBrewer}, {scico}, {rcartocolor}\n\n\nMisc\n{magick}, {systemfonts}\nFor Mac OS users: Please make sure that XQuartz is installed which is needed to use the cairo pdf device."
+  },
+  {
+    "objectID": "license.html",
+    "href": "license.html",
+    "title": "License",
+    "section": "",
+    "text": "This work is licensed under a Creative Commons Attribution 4.0 International License."
+  }
+]
