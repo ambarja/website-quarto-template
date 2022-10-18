@@ -5,7 +5,7 @@ project:
 
 website:
   page-navigation: true
-  title: "Graphic Design with ggplot2"
+  title: "Spatial predictive models with R"
   description: "Homepage for rstudio::conf(2022) workshop"
   site-url: ""
   repo-url: https://github.com/ambarja/website-quarto-template
@@ -59,12 +59,12 @@ website:
 format:
   html:
     theme:
-      light: [cosmo, theme.scss]
+      light: [cosmo,theme.scss]
       dark: [cosmo, theme-dark.scss]
     toc: true
     code-copy: true
     code-overflow: wrap
-    mainfont: "Atkinson Hyperlegible"
-
+    mainfont: 'Roboto Slab'
+    
 editor: visual
 
